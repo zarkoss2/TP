@@ -1,5 +1,5 @@
 # NovaNotes+
 
 
-version main redame
+version demo du fichier
 
