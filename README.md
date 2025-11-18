@@ -1,5 +1,5 @@
 # NovaNotes+
 
 
-version demo du fichier
+on demo du fichier
 
